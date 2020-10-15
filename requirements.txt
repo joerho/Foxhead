@@ -1,0 +1,6 @@
+###### Development dependencies ######
+pygame
+
+###### Integration dependencies ######
+flake8
+pytest
